@@ -1,1 +1,4 @@
+Numberplate detection using Python OPENCV and and EasyOCR
 
+Pre req:
+you need to install easyocr package, imutils, numpy and open cv
